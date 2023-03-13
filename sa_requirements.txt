@@ -1,0 +1,7 @@
+Python – 3.x
+Pandas – 1.2.4
+Matplotlib – 3.3.4
+TensorFlow – 2.4.1
+
+command to install:
+pip install pandas matplotlib tensorflow
